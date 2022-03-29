@@ -1,0 +1,27 @@
+.content-hobby{
+  background: white;
+}
+
+.list-hobby{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.title-hobby{
+  text-align: center;
+  margin-bottom: 30px;
+  font-weight: 500;
+}
+
+.item-list-hobby{
+  display: flex;
+  flex-direction:column;
+  justify-content: center;
+  align-items: center;
+  margin: 30px 50px;
+}
+
+.name-hobby{
+  font-weight: 300;
+}
