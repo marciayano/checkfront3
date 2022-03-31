@@ -17,7 +17,7 @@ const data = [
   {
     id: "3",
     name: "NLW Rocket Seat 2021",
-    link: "https://github.com/marciayano/cracha-nlw",
+    link: "https://marciayano.github.io/cracha-nlw/",
     image:
       "https://nextlevelweek.com/og/nlw-edition.png",
   },
